@@ -1,0 +1,16 @@
+
+num1	:	2
+num2	:	4
+operator	:	+
+result	:	6
+.........................
+num1	:	3
+num2	:	5
+operator	:	-
+result	:	8
+.........................
+num1	:	3
+num2	:	6
+operator	:	*
+result	:	9
+.........................

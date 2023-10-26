@@ -17,3 +17,5 @@ first create a new repository,then give name and save that.then we install git a
 |6.|14-09-23|lab06|write a program mix and macth calculater|https://github.com/nikhilravindren/MScDSB-MDS171-23122126-NIKHIL/tree/7660a10dd9c8781c92831100c53c9b78c7b0191b/lab06
 |7.|19-09-23|lab07|write a program expense tracker|https://github.com/nikhilravindren/MScDSB-MDS171-23122126-NIKHIL/tree/7660a10dd9c8781c92831100c53c9b78c7b0191b/lab07
 |8.|03-10-23|lab08|write a program stack class|https://github.com/nikhilravindren/MScDSB-MDS171-23122126-NIKHIL/blob/7660a10dd9c8781c92831100c53c9b78c7b0191b/lab08.py
+|9.|10-10-23|lab09|write a program for pet store managment|https://github.com/nikhilravindren/MScDSB-MDS171-23122126-NIKHIL/tree/b5e9e78fa39d4a4a6a29ed3e94b6c118c784265c/lab09|
+|10.|26-10-23|lab10|write a program for managing student details|https://github.com/nikhilravindren/MScDSB-MDS171-23122126-NIKHIL/blob/b5e9e78fa39d4a4a6a29ed3e94b6c118c784265c/lab10.py
