@@ -1,0 +1,319 @@
+Timestamp,Course,State,Gender,"Overall how would you rate your mental health?
+","Is there any history of mental health disorder in your family?
+","On average, how many hours do you sleep per day?
+",Have you ever used the counselling service provided by the college?,Family Structure,Is this the first time you're staying away from home?,How is prayer and meditation important in your daily life?,"On average, how stressed are you? ",How long have you been in Lavasa?,What strategies do you use to cope with stress and anxiety in your daily life?
+10/10/2023 21:44:21,MSc DS,Kerala,Male,4,No,4-6 hours,No,Joint Family,Yes,4,4,Less than 6 months,Meditation
+10/10/2023 22:14:11,MSc DS,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+10/10/2023 22:15:16,MSc DS,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+10/10/2023 22:19:15,MSc DS,Kerala,Female,2,No,7-8 hours,Yes,Nuclear Family,No,3,4,Less than 6 months,Sleeping
+10/10/2023 22:28:00,MSc DS,Other,Male,3,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Sports
+10/10/2023 22:31:50,MSc DS,West Bengal,Female,1,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Watching movies/series
+10/10/2023 22:41:01,MSc Global Finance and Analytics,Karnataka,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Other
+10/10/2023 22:41:53,MSc EA,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Sleeping
+10/10/2023 22:44:48,MSc DS,Other,Female,4,No,4-6 hours,No,Joint Family,Yes,4,4,Less than 6 months,Sleeping
+10/10/2023 22:45:06,MSc EA,Kerala,Female,2,No,4-6 hours,Yes,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+10/10/2023 22:54:01,MSc EA,Uttar Pradesh,Male,4,No,Less than 4 hours,No,Nuclear Family,No,4,3,Less than 6 months,Other
+10/10/2023 22:59:35,MSc Global Finance and Analytics,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+10/10/2023 23:00:15,MSc DS,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sleeping
+10/10/2023 23:01:53,MSc Global Finance and Analytics,Uttarakhand,Male,4,No,4-6 hours,Yes,Joint Family,Yes,4,2,Less than 6 months,Sleeping
+10/10/2023 23:17:24,MSc DS,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,No,3,3,Less than 6 months,Listening music
+10/10/2023 23:17:33,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Other
+10/11/2023 5:54:21,MSc DS,West Bengal,Female,5,No,Less than 4 hours,No,Joint Family,No,5,2,Less than 6 months,Meditation
+10/11/2023 6:56:28,MSc Global Finance and Analytics,Uttarakhand,Female,1,Yes,7-8 hours,No,Joint Family,Yes,3,5,Less than 6 months,Sleeping
+10/11/2023 7:52:49,BBA LLB,Himachal Pradesh,Male,3,No,4-6 hours,Yes,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+10/11/2023 7:54:55,MSc DS,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,No,4,5,Less than 6 months,Listening music
+10/11/2023 7:56:52,MSc DS,Kerala,Male,2,No,Less than 4 hours,No,Nuclear Family,No,3,3,Less than 6 months,Listening music
+10/11/2023 7:57:20,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Sleeping
+10/11/2023 8:09:18,MSc DS,Gujarat,Male,1,No,4-6 hours,No,Joint Family,Yes,2,5,Less than 6 months,Sleeping
+10/11/2023 8:10:29,MSc DS,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,No,2,2,Less than 6 months,Sports
+10/11/2023 8:13:53,MBA,Other,Female,3,No,7-8 hours,No,Nuclear Family,No,5,4,Less than 6 months,Listening music
+10/11/2023 8:20:52,MSc DS,Maharashtra,Female,5,No,7-8 hours,No,Nuclear Family,No,3,1,Less than 6 months,Sleeping
+10/11/2023 8:33:08,MSc DS,Kerala,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+10/11/2023 8:33:18,MSc DS,Kerala,Male,4,No,4-6 hours,Yes,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+10/11/2023 8:41:48,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,5,5,Less than 6 months,Other
+10/11/2023 9:04:24,MSc DS,West Bengal,Female,3,No,7-8 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Other
+10/11/2023 10:28:06,MSc DS,West Bengal,Male,1,No,4-6 hours,No,Joint Family,No,5,5,Less than 6 months,Meditation
+10/11/2023 10:33:38,MSc DS,Karnataka,Female,5,No,Less than 4 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+10/11/2023 10:41:08,MSc DS,Madhya Pradesh,Male,3,No,7-8 hours,No,Nuclear Family,No,4,2,Less than 6 months,Sleeping
+10/11/2023 10:44:10,MSc DS,Kerala,Male,2,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Sleeping
+10/11/2023 10:45:55,MSc DS,Tamil Nadu,Male,4,No,4-6 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+10/11/2023 10:46:04,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sports
+10/11/2023 10:46:06,MSc DS,Kerala,Female,2,No,4-6 hours,No,Nuclear Family,No,3,3,More than 2 years,Sleeping
+10/11/2023 10:47:22,MSc DS,Tamil Nadu,Male,4,No,7-8 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Sleeping
+10/11/2023 10:47:41,MSc DS,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+10/11/2023 10:47:48,MSc DS,Gujarat,Female,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+10/11/2023 10:48:55,MSc DS,Gujarat,Male,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+10/11/2023 10:49:14,MSc DS,Goa,Male,3,No,Less than 4 hours,Yes,Nuclear Family,No,3,4,More than 1 year,Watching movies/series
+10/11/2023 10:49:32,MSc DS,Kerala,Male,2,No,4-6 hours,No,Joint Family,Yes,4,2,Less than 6 months,Listening music
+10/11/2023 10:50:12,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Listening music
+10/11/2023 10:50:28,MSc DS,Kerala,Male,3,No,7-8 hours,No,Nuclear Family,No,3,3,Less than 6 months,Sports
+10/11/2023 10:55:21,MSc EA,Maharashtra,Female,4,No,Less than 4 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+10/11/2023 10:58:25,MSc DS,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+10/11/2023 11:47:13,MSc DS,Kerala,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Watching movies/series
+10/11/2023 11:50:30,MSc EA,Kerala,Female,2,No,4-6 hours,Yes,Nuclear Family,Yes,2,3,Less than 6 months,Listening music
+10/11/2023 11:56:52,MSc DS,Goa,Female,3,Yes,Less than 4 hours,No,Nuclear Family,No,3,5,Less than 6 months,Sleeping
+10/11/2023 12:03:02,MSc EA,West Bengal,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+10/11/2023 12:53:35,MSc DS,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,More than 1 year,Sleeping
+10/11/2023 13:12:29,BBA,Karnataka,Male,5,No,7-8 hours,Yes,Joint Family,Yes,5,1,Less than 6 months,Other
+10/11/2023 13:14:34,MSc DS,Bihar,Male,5,No,4-6 hours,No,Nuclear Family,No,5,5,Less than 6 months,Listening music
+10/11/2023 13:54:42,MSc DS,Tamil Nadu,Male,4,No,4-6 hours,No,Joint Family,No,2,4,Less than 6 months,Listening music
+10/11/2023 15:42:00,BA LLB,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Other
+10/11/2023 15:46:12,BA LLB,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+10/11/2023 15:46:55,BA LLB,Chhattisgarh,Female,2,No,7-8 hours,No,Joint Family,Yes,5,4,Less than 6 months,Sports
+10/11/2023 15:57:58,BA LLB,Bihar,Female,3,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+10/11/2023 16:01:43,BA LLB,Bihar,Female,2,No,4-6 hours,No,Nuclear Family,Yes,3,3,Less than 6 months,Listening music
+10/11/2023 16:28:50,MSc DS,West Bengal,Male,5,No,4-6 hours,No,Joint Family,Yes,1,5,Less than 6 months,Other
+10/11/2023 16:31:29,MSc DS,West Bengal,Female,1,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Watching movies/series
+10/11/2023 16:40:59,BA LLB,Meghalaya,Female,3,No,4-6 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+10/11/2023 18:34:41,MSc DS,Maharashtra,Female,1,No,7-8 hours,Yes,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+10/11/2023 20:40:03,MSc DS,Uttar Pradesh,Female,1,No,Less than 4 hours,Yes,Joint Family,No,5,5,Less than 6 months,Other
+10/11/2023 21:04:44,MSc DS,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,No,2,1,Less than 6 months,Other
+10/11/2023 21:31:34,BA LLB,Tamil Nadu,Male,5,No,7-8 hours,No,Nuclear Family,No,1,1,Less than 6 months,Other
+10/11/2023 22:15:19,MSc DS,Assam,Female,3,No,4-6 hours,No,Nuclear Family,No,3,5,Less than 6 months,Listening music
+10/11/2023 22:26:40,BA LLB,Bihar,Female,5,No,4-6 hours,No,Nuclear Family,No,3,2,Less than 6 months,Watching movies/series
+10/11/2023 22:33:33,MBA,Andhra Pradesh,Male,5,No,4-6 hours,No,Nuclear Family,No,4,4,Less than 6 months,Listening music
+10/11/2023 22:50:59,MBA,Karnataka,Male,3,No,4-6 hours,No,Nuclear Family,No,4,4,Less than 6 months,Listening music
+10/11/2023 23:50:24,MSc DS,Goa,Male,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Listening music
+10/12/2023 1:24:36,MSc DS,Uttar Pradesh,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,2,Less than 6 months,Listening music
+10/12/2023 7:41:19,MSc DS,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+10/12/2023 13:31:42,MSc DS,Kerala,Male,3,No,4-6 hours,Yes,Nuclear Family,Yes,3,3,Less than 6 months,Listening music
+10/12/2023 13:45:29,BA LLB,Bihar,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+10/12/2023 15:43:48,BBA,Maharashtra,Female,1,No,More than 8 hours,Yes,Joint Family,No,4,4,More than 1 year,Sports
+10/12/2023 16:32:03,BA LLB,West Bengal,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,More than 1 year,Sports
+10/12/2023 20:22:52,MBA,Goa,Female,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Watching movies/series
+10/12/2023 20:49:14,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,3,3,Less than 6 months,Sleeping
+10/12/2023 21:24:33,BA LLB,Haryana,Female,4,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Listening music
+10/12/2023 21:28:00,BA LLB,Chhattisgarh,Female,2,No,7-8 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Sleeping
+10/12/2023 21:50:47,BSc DS,Telangana,Male,3,No,4-6 hours,No,Joint Family,No,1,5,Less than 6 months,Sleeping
+10/12/2023 22:01:42,BA LLB,Tamil Nadu,Female,4,No,4-6 hours,No,Joint Family,Yes,3,2,Less than 6 months,Listening music
+10/12/2023 22:07:40,BBA LLB,Kerala,Female,3,Yes,4-6 hours,No,Joint Family,No,5,5,Less than 6 months,Reading
+10/12/2023 22:09:44,BA LLB,Uttar Pradesh,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Sleeping
+10/12/2023 22:21:09,BA LLB,Maharashtra,Female,4,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+10/12/2023 22:50:42,BBA,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,1,4,More than 1 year,Listening music
+10/12/2023 22:51:04,BBA,Other,Male,1,No,4-6 hours,No,Nuclear Family,Yes,1,5,More than 1 year,Listening music
+10/12/2023 22:53:26,BBA,Uttar Pradesh,Female,3,No,4-6 hours,No,Nuclear Family,No,1,4,More than 1 year,Sleeping
+10/12/2023 22:53:27,Other,Gujarat,Male,5,No,4-6 hours,No,Nuclear Family,No,5,2,More than 2 years,Sports
+10/12/2023 22:53:38,BA LLB,Rajasthan,Male,1,No,7-8 hours,Yes,Joint Family,No,1,5,More than 2 years,Sleeping
+10/12/2023 22:56:02,BSc DS,Maharashtra,Female,3,No,4-6 hours,No,Nuclear Family,No,1,4,More than 1 year,Sports
+10/12/2023 22:56:55,BSc DS,Uttar Pradesh,Male,4,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Listening music
+10/12/2023 22:57:16,Other,Tamil Nadu,Male,3,No,4-6 hours,No,Joint Family,Yes,1,4,More than 1 year,Watching movies/series
+10/12/2023 22:57:57,BBA LLB,Tamil Nadu,Female,3,No,4-6 hours,No,Joint Family,Yes,2,3,More than 1 year,Listening music
+10/12/2023 22:58:39,BBA LLB,West Bengal,Male,1,No,4-6 hours,No,Joint Family,Yes,5,3,More than 2 years,Watching movies/series
+10/12/2023 22:58:46,Other,Tamil Nadu,Male,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Listening music
+10/12/2023 22:59:03,BA LLB,Tamil Nadu,Female,2,Yes,Less than 4 hours,No,Nuclear Family,No,2,5,More than 1 year,Listening music
+10/12/2023 22:59:46,BA LLB,Tamil Nadu,Female,3,No,7-8 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+10/12/2023 23:00:11,BSc DS,Telangana,Male,5,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Other
+10/12/2023 23:01:27,BCom,Tamil Nadu,Male,4,Yes,4-6 hours,Yes,Nuclear Family,Yes,3,3,More than 1 year,Sports
+10/12/2023 23:02:08,Other,Maharashtra,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,2,5,More than 1 year,Listening music
+10/12/2023 23:04:04,MSc EA,Maharashtra,Female,4,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+10/12/2023 23:04:10,MSc DS,Uttar Pradesh,Female,2,No,Less than 4 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+10/12/2023 23:04:21,BCom,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Sports
+10/12/2023 23:04:55,MSc DS,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Other
+10/12/2023 23:05:37,BBA LLB,Karnataka,Female,1,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+10/12/2023 23:11:29,BBA LLB,Karnataka,Female,4,No,Less than 4 hours,No,Nuclear Family,No,1,5,More than 1 year,Other
+10/13/2023 0:22:42,MBA,Telangana,Male,4,No,7-8 hours,No,Nuclear Family,No,4,3,More than 2 years,Listening music
+10/13/2023 0:27:05,MBA,Kerala,Male,1,No,Less than 4 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Listening music
+10/13/2023 0:28:44,MBA,Tamil Nadu,Male,5,No,4-6 hours,No,Joint Family,Yes,4,2,Less than 6 months,Other
+10/13/2023 0:53:39,MBA,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Sleeping
+10/13/2023 0:56:16,MBA,Kerala,Female,5,No,4-6 hours,No,Nuclear Family,No,4,2,Less than 6 months,Listening music
+10/13/2023 13:01:00,MSc EA,Karnataka,Female,4,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Listening music
+10/13/2023 13:02:18,BBA LLB,Maharashtra,Female,2,No,7-8 hours,Yes,Nuclear Family,No,2,5,More than 2 years,Sleeping
+10/13/2023 13:07:28,BA LLB,Tamil Nadu,Female,5,No,4-6 hours,No,Joint Family,Yes,1,3,More than 2 years,Listening music
+10/13/2023 13:08:46,BSc DS,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Listening music
+10/13/2023 13:09:51,BBA LLB,Tamil Nadu,Female,2,No,More than 8 hours,No,Nuclear Family,Yes,1,4,More than 2 years,Sleeping
+10/13/2023 13:10:10,BBA LLB,Tamil Nadu,Female,3,No,7-8 hours,No,Joint Family,Yes,5,3,More than 1 year,Sleeping
+10/13/2023 13:10:43,BBA,Karnataka,Female,3,No,7-8 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Listening music
+10/13/2023 13:14:27,BBA LLB,Tamil Nadu,Female,2,No,7-8 hours,No,Joint Family,Yes,5,4,More than 2 years,Listening music
+10/13/2023 13:14:27,BBA LLB,Kerala,Female,2,No,7-8 hours,No,Nuclear Family,Yes,2,5,Less than 6 months,Sleeping
+10/13/2023 13:20:42,BBA,Rajasthan,Male,3,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+10/13/2023 13:21:30,BA LLB,West Bengal,Female,2,Yes,7-8 hours,No,Nuclear Family,Yes,4,5,More than 2 years,Listening music
+10/13/2023 13:29:45,BBA LLB,Kerala,Female,3,Yes,4-6 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+10/13/2023 13:31:11,BBA LLB,Kerala,Female,2,No,4-6 hours,No,Nuclear Family,Yes,1,4,More than 1 year,Other
+10/13/2023 13:46:29,MSc DS,Tamil Nadu,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+10/13/2023 14:24:44,MSc DS,West Bengal,Male,5,No,Less than 4 hours,No,Joint Family,Yes,1,1,Less than 6 months,Sports
+10/13/2023 15:26:31,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,More than 1 year,Listening music
+10/13/2023 18:43:03,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Meditation
+10/13/2023 20:10:48,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Listening music
+10/14/2023 7:53:37,MBA,Kerala,Female,2,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Listening music
+10/14/2023 8:29:35,MBA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+10/14/2023 8:30:42,MBA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Sports
+10/14/2023 11:14:49,MBA,Karnataka,Female,5,No,7-8 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Other
+10/16/2023 16:22:18,BBA,Haryana,Male,2,No,4-6 hours,No,Nuclear Family,Yes,1,2,Less than 6 months,Sports
+10/16/2023 16:22:26,BBA,Bihar,Female,4,No,7-8 hours,No,Joint Family,Yes,5,3,Less than 6 months,Listening music
+10/16/2023 16:23:05,BBA,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,Yes,2,3,Less than 6 months,Sleeping
+10/16/2023 16:23:30,BBA,West Bengal,Female,4,No,7-8 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+10/16/2023 16:25:18,BBA LLB,Telangana,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 2 years,Watching movies/series
+10/16/2023 16:26:49,BBA,Uttar Pradesh,Female,3,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Other
+10/16/2023 16:26:49,BBA LLB,Jharkhand,Female,1,Yes,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Other
+10/16/2023 16:27:45,BBA,Telangana,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Listening music
+10/16/2023 16:29:36,BBA,Madhya Pradesh,Male,2,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Other
+10/16/2023 16:39:29,BBA,Goa,Other,1,Yes,Less than 4 hours,No,Joint Family,Yes,1,5,More than 2 years,Other
+10/16/2023 16:42:29,BBA LLB,Kerala,Male,1,No,4-6 hours,No,Nuclear Family,No,1,5,More than 1 year,Listening music
+10/16/2023 16:55:25,MA English,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+10/16/2023 17:40:46,BA LLB,Other,Female,3,Yes,4-6 hours,No,Joint Family,Yes,2,4,Less than 6 months,Listening music
+10/17/2023 11:25:39,MSc DS,West Bengal,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Meditation
+10/17/2023 16:10:01,MSc DS,Kerala,Male,3,Yes,4-6 hours,Yes,Nuclear Family,Yes,3,3,More than 1 year,Sports
+10/17/2023 16:15:20,MSc DS,Bihar,Male,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sports
+10/17/2023 16:17:21,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Listening music
+10/17/2023 16:17:21,MSc DS,Bihar,Male,5,No,4-6 hours,Yes,Nuclear Family,No,5,4,Less than 6 months,Sleeping
+10/17/2023 16:17:45,MSc DS,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Sports
+10/17/2023 16:18:16,MSc DS,Kerala,Male,3,Yes,4-6 hours,No,Nuclear Family,Yes,3,3,More than 1 year,Watching movies/series
+10/17/2023 16:19:59,MSc DS,Telangana,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+10/17/2023 16:25:08,MSc DS,Goa,Male,2,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+10/17/2023 16:25:37,MSc EA,Odisha,Female,2,No,4-6 hours,Yes,Joint Family,No,5,5,Less than 6 months,Meditation
+10/17/2023 20:09:29,MSc DS,Maharashtra,Male,4,No,Less than 4 hours,No,Nuclear Family,No,5,3,More than 1 year,Sleeping
+10/17/2023 20:18:57,MBA,Karnataka,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+10/17/2023 20:22:56,MBA,Tamil Nadu,Male,2,No,4-6 hours,No,Nuclear Family,No,2,5,More than 1 year,Sleeping
+10/18/2023 17:03:57,MBA,Kerala,Male,5,No,7-8 hours,No,Nuclear Family,Yes,1,1,Less than 6 months,Listening music
+10/18/2023 17:04:49,MBA,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+10/18/2023 21:45:05,MBA,Bihar,Female,4,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+10/19/2023 16:12:13,MSc DS,West Bengal,Female,4,No,7-8 hours,Yes,Nuclear Family,Yes,3,2,More than 1 year,Sports
+10/19/2023 16:12:35,Other,Kerala,Male,4,No,4-6 hours,No,Nuclear Family,No,5,3,More than 2 years,Listening music
+10/19/2023 16:34:13,MSc DS,Maharashtra,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Listening music
+10/19/2023 20:23:47,BBA LLB,Karnataka,Female,4,No,Less than 4 hours,Yes,Joint Family,No,4,3,More than 1 year,Sports
+10/19/2023 20:30:02,Other,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Listening music
+10/21/2023 1:25:21,MBA,Karnataka,Female,5,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Listening music
+10/21/2023 8:24:03,MBA,Tamil Nadu,Male,4,No,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+10/21/2023 8:46:55,MSc DS,Kerala,Female,4,No,Less than 4 hours,No,Nuclear Family,No,3,5,Less than 6 months,Sports
+10/21/2023 14:53:57,BBA LLB,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,Yes,5,3,Less than 6 months,Listening music
+10/21/2023 16:20:46,MBA,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,Yes,4,4,Less than 6 months,Listening music
+10/21/2023 20:51:42,BBA,Haryana,Female,4,No,Less than 4 hours,No,Joint Family,Yes,4,2,Less than 6 months,Listening music
+10/21/2023 20:54:37,MBA,Uttar Pradesh,Female,4,No,Less than 4 hours,Yes,Joint Family,Yes,4,4,More than 1 year,Sports
+10/21/2023 21:04:31,BBA,Rajasthan,Female,2,No,Less than 4 hours,No,Joint Family,No,4,4,Less than 6 months,Watching movies/series
+10/21/2023 21:20:15,MA English,Andhra Pradesh,Male,2,No,Less than 4 hours,No,Joint Family,No,4,4,More than 1 year,Listening music
+10/21/2023 21:26:44,BSc DS,Haryana,Male,4,No,Less than 4 hours,Yes,Joint Family,No,2,4,More than 1 year,Sleeping
+10/21/2023 21:31:16,BBA LLB,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 2 years,Sleeping
+10/21/2023 21:41:01,BA LLB,Tamil Nadu,Female,2,No,Less than 4 hours,No,Nuclear Family,No,2,4,Less than 6 months,Sports
+10/21/2023 23:30:24,BBA,Goa,Male,5,No,Less than 4 hours,No,Joint Family,Yes,3,2,More than 2 years,Listening music
+10/21/2023 23:36:17,BBA LLB,Karnataka,Male,4,No,Less than 4 hours,No,Joint Family,Yes,4,2,More than 1 year,Sleeping
+10/22/2023 0:31:04,BBA LLB,Karnataka,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+10/22/2023 0:32:00,MBA,Gujarat,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Sports
+10/22/2023 8:53:36,BBA LLB,Telangana,Female,3,No,Less than 4 hours,Yes,Nuclear Family,Yes,5,5,Less than 6 months,Reading
+10/22/2023 19:06:23,BCom,West Bengal,Male,4,No,7-8 hours,No,Nuclear Family,No,4,4,More than 1 year,Meditation
+10/22/2023 19:08:02,BCom,Rajasthan,Female,2,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+10/22/2023 19:13:49,BCom,Chhattisgarh,Male,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+10/22/2023 19:20:03,MBA,Assam,Male,4,No,7-8 hours,No,Joint Family,Yes,4,2,Less than 6 months,Sleeping
+10/23/2023 2:58:30,BBA LLB,Telangana,Male,4,Yes,4-6 hours,No,Joint Family,No,3,4,More than 1 year,Sleeping
+10/23/2023 2:59:44,BBA,Andhra Pradesh,Female,4,No,4-6 hours,Yes,Joint Family,No,4,3,More than 1 year,Sports
+10/23/2023 13:53:24,MSc DS,Telangana,Male,2,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+10/23/2023 13:54:35,MBA,Karnataka,Female,4,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sports
+10/23/2023 13:57:04,MSc Global Finance and Analytics,Bihar,Male,2,Yes,4-6 hours,No,Nuclear Family,No,2,2,Less than 6 months,Listening music
+10/23/2023 13:58:26,MSc EA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,No,5,3,More than 1 year,Sleeping
+10/23/2023 14:00:50,BA LLB,Karnataka,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,5,More than 2 years,Reading
+10/23/2023 14:02:44,BBA,Gujarat,Male,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+10/23/2023 14:04:00,MBA,Haryana,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Meditation
+10/23/2023 14:06:47,BA LLB,Goa,Male,2,No,7-8 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Listening music
+10/23/2023 14:07:43,BBA,Assam,Female,4,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,1,1,Less than 6 months,Watching movies/series
+10/23/2023 14:11:26,MBA,Uttarakhand,Female,2,No,4-6 hours,No,Nuclear Family,No,5,5,More than 1 year,Watching movies/series
+10/23/2023 14:15:07,BA,Goa,Female,3,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+10/23/2023 14:15:35,BBA LLB,Tripura,Female,4,No,Less than 4 hours,No,Nuclear Family,No,4,5,More than 1 year,Sports
+10/23/2023 14:16:45,MBA,Assam,Male,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+10/23/2023 14:17:10,BA LLB,Madhya Pradesh,Male,5,No,4-6 hours,No,Joint Family,No,3,2,Less than 6 months,Sports
+10/23/2023 14:17:58,BCom,Andhra Pradesh,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,2,5,More than 1 year,Meditation
+10/23/2023 14:18:43,MSc DS,Madhya Pradesh,Male,3,No,4-6 hours,No,Nuclear Family,No,3,3,More than 1 year,Sleeping
+10/23/2023 14:19:49,BBA,Kerala,Male,3,No,Less than 4 hours,No,Nuclear Family,No,2,4,More than 1 year,Reading
+10/23/2023 14:20:12,MBA,Kerala,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,2,More than 1 year,Sleeping
+10/23/2023 14:21:02,MBA,Karnataka,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+10/23/2023 14:22:08,BSc DS,Karnataka,Female,2,No,4-6 hours,No,Nuclear Family,No,5,3,Less than 6 months,Reading
+10/23/2023 14:22:13,BSc DS,Haryana,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+10/23/2023 14:23:03,MBA,Bihar,Male,2,No,Less than 4 hours,No,Joint Family,Yes,4,2,More than 1 year,Reading
+10/23/2023 14:24:29,BSc DS,Odisha,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Sleeping
+10/23/2023 14:24:37,MSc DS,Kerala,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Reading
+10/23/2023 14:25:25,BSc DS,Andhra Pradesh,Female,5,Yes,More than 8 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Sports
+10/23/2023 14:27:02,MBA,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+10/23/2023 14:28:24,BBA LLB,Tripura,Female,2,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Listening music
+10/23/2023 14:31:11,BA LLB,Tamil Nadu,Female,2,No,7-8 hours,No,Nuclear Family,No,2,3,More than 2 years,Listening music
+10/23/2023 14:32:11,BCom,Haryana,Female,2,Yes,Less than 4 hours,No,Joint Family,Yes,4,5,More than 1 year,Listening music
+10/23/2023 14:33:32,MBA,Kerala,Male,2,No,Less than 4 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+10/23/2023 14:36:10,BA LLB,West Bengal,Male,2,No,Less than 4 hours,No,Joint Family,Yes,4,4,More than 1 year,Listening music
+10/23/2023 14:42:37,MBA,Andhra Pradesh,Male,2,No,4-6 hours,Yes,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+10/23/2023 14:49:43,BBA,Madhya Pradesh,Male,3,No,4-6 hours,No,Nuclear Family,Yes,3,5,More than 1 year,Watching movies/series
+10/23/2023 14:53:03,BA LLB,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+10/23/2023 14:57:28,BA LLB,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+10/23/2023 16:27:59,BBA,Haryana,Female,3,No,7-8 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+10/23/2023 18:33:58,BA LLB,Tamil Nadu,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,More than 1 year,Listening music
+10/23/2023 18:34:53,BBA LLB,Karnataka,Male,4,No,Less than 4 hours,No,Nuclear Family,No,4,4,More than 2 years,Other
+10/23/2023 18:35:38,BBA LLB,Kerala,Female,4,No,4-6 hours,No,Joint Family,No,4,4,More than 1 year,Other
+10/23/2023 18:36:38,BA LLB,Tamil Nadu,Female,4,No,Less than 4 hours,No,Nuclear Family,No,1,4,More than 1 year,Reading
+10/23/2023 18:37:32,BSc DS,Maharashtra,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,5,More than 1 year,Other
+10/23/2023 18:38:32,BCom,West Bengal,Male,4,No,Less than 4 hours,Yes,Nuclear Family,Yes,3,4,More than 1 year,Sleeping
+10/23/2023 18:40:28,MSc DS,Uttar Pradesh,Male,3,No,Less than 4 hours,No,Nuclear Family,No,3,4,More than 1 year,Reading
+10/23/2023 18:43:43,BSc DS,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,No,4,3,More than 1 year,Watching movies/series
+10/23/2023 18:47:48,MSc EA,Telangana,Male,2,Yes,4-6 hours,No,Joint Family,No,2,5,More than 1 year,Reading
+10/23/2023 21:35:20,MSc DS,Haryana,Female,2,Yes,7-8 hours,Yes,Nuclear Family,Yes,3,5,More than 1 year,Meditation
+10/23/2023 21:36:33,BA LLB,Maharashtra,Male,5,No,More than 8 hours,No,Joint Family,Yes,5,1,More than 2 years,Listening music
+10/23/2023 21:37:29,BSc EA,Himachal Pradesh,Male,5,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Reading
+10/23/2023 21:41:16,MBA,Chhattisgarh,Male,1,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+10/23/2023 21:41:17,MSc EA,Punjab,Female,2,Yes,4-6 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+10/23/2023 21:42:33,BBA LLB,Jammu & Kashmir,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Reading
+10/23/2023 21:42:36,BCom,Manipur,Female,4,No,Less than 4 hours,No,Nuclear Family,No,4,2,More than 2 years,Watching movies/series
+10/23/2023 21:43:19,LLM,Jammu & Kashmir,Female,2,No,Less than 4 hours,No,Joint Family,Yes,1,2,Less than 6 months,Sleeping
+10/23/2023 21:43:40,MSc Global Finance and Analytics,Kerala,Female,3,No,7-8 hours,Yes,Joint Family,No,5,2,More than 2 years,Sleeping
+10/23/2023 21:43:43,BBA LLB,Karnataka,Male,2,No,Less than 4 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Listening music
+10/23/2023 21:44:15,BBA LLB,Odisha,Male,2,Yes,4-6 hours,Yes,Nuclear Family,No,2,1,More than 2 years,Sports
+10/23/2023 21:44:41,BCom,Sikkim,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Meditation
+10/23/2023 21:44:44,BBA LLB,Telangana,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Listening music
+10/23/2023 21:45:52,BSc DS,Jharkhand,Female,2,Yes,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Watching movies/series
+10/23/2023 21:46:18,MA English,Bihar,Male,1,No,7-8 hours,No,Nuclear Family,Yes,1,2,More than 1 year,Reading
+10/23/2023 21:48:00,BBA,Goa,Male,5,No,4-6 hours,Yes,Nuclear Family,Yes,2,2,Less than 6 months,Sports
+10/23/2023 21:50:47,BCom,Andhra Pradesh,Female,2,Yes,7-8 hours,No,Nuclear Family,Yes,1,5,Less than 6 months,Reading
+10/23/2023 21:51:54,BA,Assam,Male,2,No,4-6 hours,Yes,Joint Family,Yes,2,1,More than 1 year,Sports
+10/23/2023 21:53:14,MSc Global Finance and Analytics,Gujarat,Male,5,No,7-8 hours,No,Nuclear Family,No,5,2,More than 1 year,Listening music
+10/23/2023 21:54:43,BA LLB,Karnataka,Female,3,No,More than 8 hours,No,Nuclear Family,Yes,5,1,More than 1 year,Watching movies/series
+10/23/2023 21:54:58,MSc Global Finance and Analytics,Andhra Pradesh,Female,3,No,4-6 hours,No,Joint Family,No,4,4,Less than 6 months,Sports
+10/23/2023 21:57:38,BSc EA,Kerala,Female,4,No,7-8 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Meditation
+10/23/2023 21:58:56,BBA,Haryana,Male,1,No,7-8 hours,No,Joint Family,No,3,3,Less than 6 months,Sleeping
+10/23/2023 21:59:57,MSc EA,Goa,Female,4,No,4-6 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+10/23/2023 22:04:15,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+10/23/2023 22:05:15,MBA,West Bengal,Female,2,Yes,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+10/23/2023 22:06:06,BA LLB,Haryana,Female,2,No,Less than 4 hours,No,Nuclear Family,No,3,4,More than 2 years,Sleeping
+10/23/2023 22:06:46,MBA,Bihar,Male,5,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Listening music
+10/23/2023 22:07:56,MSc Global Finance and Analytics,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Watching movies/series
+10/23/2023 22:08:43,BBA LLB,Haryana,Male,2,No,7-8 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Meditation
+10/23/2023 22:09:41,BA LLB,Tamil Nadu,Female,2,Yes,More than 8 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Sleeping
+10/23/2023 22:10:24,BA LLB,Bihar,Male,3,No,7-8 hours,Yes,Nuclear Family,No,3,3,More than 1 year,Watching movies/series
+10/23/2023 22:12:31,BSc DS,Bihar,Female,4,No,4-6 hours,Yes,Joint Family,No,2,4,More than 1 year,Meditation
+10/23/2023 22:13:10,BA LLB,Uttar Pradesh,Female,3,Yes,4-6 hours,Yes,Nuclear Family,Yes,2,2,More than 1 year,Sleeping
+10/23/2023 22:15:40,MSc DS,Telangana,Female,4,Yes,4-6 hours,Yes,Nuclear Family,Yes,2,3,More than 1 year,Sleeping
+10/23/2023 22:16:24,BA LLB,Tripura,Female,3,No,7-8 hours,No,Joint Family,No,3,5,More than 1 year,Listening music
+10/23/2023 22:17:07,MSc DS,Haryana,Female,5,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+10/23/2023 22:35:21,BBA LLB,Kerala,Female,1,Yes,More than 8 hours,No,Nuclear Family,No,4,1,Less than 6 months,Sleeping
+10/23/2023 22:49:23,MBA,Chhattisgarh,Male,2,No,7-8 hours,No,Nuclear Family,No,3,3,More than 1 year,Reading
+10/23/2023 22:51:11,BBA LLB,Gujarat,Male,2,No,7-8 hours,Yes,Joint Family,No,2,3,More than 1 year,Listening music
+10/23/2023 22:52:22,BBA LLB,Gujarat,Other,1,Yes,Less than 4 hours,No,Joint Family,Yes,2,5,Less than 6 months,Watching movies/series
+10/23/2023 22:55:40,MA English,Nagaland,Female,2,No,4-6 hours,No,Nuclear Family,Yes,3,3,More than 1 year,Sports
+10/23/2023 22:56:44,MBA,Assam,Male,5,No,More than 8 hours,No,Nuclear Family,Yes,5,2,More than 2 years,Watching movies/series
+10/23/2023 22:59:05,MSc EA,Chhattisgarh,Male,3,No,4-6 hours,No,Nuclear Family,No,5,1,More than 1 year,Sleeping
+10/23/2023 22:59:59,BA LLB,Telangana,Female,4,Yes,7-8 hours,Yes,Joint Family,Yes,2,4,Less than 6 months,Watching movies/series
+10/23/2023 23:15:37,BBA LLB,Madhya Pradesh,Female,2,No,4-6 hours,No,Joint Family,Yes,1,2,More than 1 year,Meditation
+10/23/2023 23:19:37,BSc EA,Jharkhand,Female,2,No,7-8 hours,No,Joint Family,Yes,3,3,Less than 6 months,Watching movies/series
+10/23/2023 23:20:21,BSc DS,Jammu & Kashmir,Female,2,No,4-6 hours,No,Nuclear Family,No,3,3,More than 1 year,Watching movies/series
+10/23/2023 23:21:21,BA LLB,Himachal Pradesh,Female,3,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,3,2,Less than 6 months,Listening music
+10/23/2023 23:24:27,MBA,Gujarat,Female,2,No,More than 8 hours,No,Joint Family,No,1,1,More than 1 year,Watching movies/series
+10/23/2023 23:24:45,MBA,Chhattisgarh,Other,3,No,More than 8 hours,No,Nuclear Family,No,4,3,Less than 6 months,Sports
+10/23/2023 23:26:57,MBA,Maharashtra,Female,1,Yes,4-6 hours,Yes,Nuclear Family,No,4,5,Less than 6 months,Watching movies/series
+10/23/2023 23:48:27,MSc Global Finance and Analytics,Karnataka,Male,4,No,7-8 hours,No,Joint Family,Yes,3,3,More than 1 year,Watching movies/series
+10/23/2023 23:50:11,BBA,Assam,Female,2,No,More than 8 hours,No,Nuclear Family,Yes,2,2,More than 1 year,Sports
+10/23/2023 23:56:01,BBA,Haryana,Female,2,Yes,4-6 hours,Yes,Joint Family,No,2,3,More than 2 years,Sports
+10/24/2023 0:03:14,BSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,No,1,1,Less than 6 months,Other
+10/24/2023 0:05:36,BBA,Jharkhand,Male,2,No,4-6 hours,No,Joint Family,Yes,1,3,More than 1 year,Reading
+10/24/2023 0:52:43,Other,Madhya Pradesh,Male,3,No,4-6 hours,No,Nuclear Family,No,4,4,Less than 6 months,Sports
+10/24/2023 0:53:49,BBA,Rajasthan,Female,4,No,7-8 hours,No,Joint Family,Yes,3,2,More than 1 year,Reading
+10/24/2023 8:37:20,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+10/24/2023 8:40:55,MBA,Tamil Nadu,Female,2,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Sleeping
+10/24/2023 8:42:06,BBA LLB,Kerala,Female,2,No,4-6 hours,No,Joint Family,Yes,4,4,More than 1 year,Listening music
+10/24/2023 9:55:35,MSc DS,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+10/24/2023 11:58:16,BSc DS,Punjab,Female,3,No,4-6 hours,No,Joint Family,Yes,1,3,Less than 6 months,Sleeping
+10/24/2023 12:01:31,BBA,Maharashtra,Male,3,No,4-6 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Sleeping
+10/24/2023 13:44:06,MBA,Goa,Male,2,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+10/24/2023 14:20:17,MA English,Tamil Nadu,Male,4,Yes,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+10/24/2023 14:21:41,BCom,Kerala,Female,1,No,7-8 hours,No,Joint Family,No,1,1,More than 1 year,Sports
+10/24/2023 14:22:40,MSc DS,Maharashtra,Other,5,No,More than 8 hours,No,Joint Family,No,5,1,More than 1 year,Watching movies/series
+10/24/2023 14:24:03,MBA,Tamil Nadu,Male,4,No,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+10/24/2023 14:29:30,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sleeping
+10/24/2023 14:29:43,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+10/24/2023 14:33:02,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+10/24/2023 14:33:26,MBA,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,No,3,4,Less than 6 months,Listening music
+10/24/2023 14:35:22,MBA,Kerala,Female,4,No,Less than 4 hours,Yes,Joint Family,No,2,5,Less than 6 months,Sleeping
+10/24/2023 14:36:03,MBA,Tamil Nadu,Female,4,No,Less than 4 hours,No,Joint Family,No,3,4,Less than 6 months,Listening music
+10/24/2023 14:36:55,MBA,West Bengal,Male,4,No,4-6 hours,No,Joint Family,Yes,4,4,Less than 6 months,Sports

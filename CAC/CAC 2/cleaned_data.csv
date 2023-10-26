@@ -1,0 +1,304 @@
+,Course,State,Gender,Mental Health Rating,Family History,Sleep Duration,Counselling Service Usage,Family Structure,First Time Away From Home,"Importance of Prayer,Meditation",Stress Score,Length of Stay,Coping Strategies
+0,MSc DS,Kerala,Male,4,No,4-6 hours,No,Joint Family,Yes,4,4,Less than 6 months,Meditation
+1,MSc DS,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+2,MSc DS,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+3,MSc DS,Kerala,Female,2,No,7-8 hours,Yes,Nuclear Family,No,3,4,Less than 6 months,Sleeping
+5,MSc DS,West Bengal,Female,1,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Watching movies/series
+6,Msc GFA,Karnataka,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Other
+7,MSc EA,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Sleeping
+9,MSc EA,Kerala,Female,2,No,4-6 hours,Yes,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+10,MSc EA,Uttar Pradesh,Male,4,No,Less than 4 hours,No,Nuclear Family,No,4,3,Less than 6 months,Other
+11,Msc GFA,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+12,MSc DS,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sleeping
+13,Msc GFA,Uttarakhand,Male,4,No,4-6 hours,Yes,Joint Family,Yes,4,2,Less than 6 months,Sleeping
+14,MSc DS,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,No,3,3,Less than 6 months,Listening music
+15,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Other
+16,MSc DS,West Bengal,Female,5,No,Less than 4 hours,No,Joint Family,No,5,2,Less than 6 months,Meditation
+17,Msc GFA,Uttarakhand,Female,1,Yes,7-8 hours,No,Joint Family,Yes,3,5,Less than 6 months,Sleeping
+18,BBA LLB,Himachal Pradesh,Male,3,No,4-6 hours,Yes,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+19,MSc DS,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,No,4,5,Less than 6 months,Listening music
+20,MSc DS,Kerala,Male,2,No,Less than 4 hours,No,Nuclear Family,No,3,3,Less than 6 months,Listening music
+21,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Sleeping
+22,MSc DS,Gujarat,Male,1,No,4-6 hours,No,Joint Family,Yes,2,5,Less than 6 months,Sleeping
+23,MSc DS,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,No,2,2,Less than 6 months,Sports
+25,MSc DS,Maharashtra,Female,5,No,7-8 hours,No,Nuclear Family,No,3,1,Less than 6 months,Sleeping
+26,MSc DS,Kerala,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+27,MSc DS,Kerala,Male,4,No,4-6 hours,Yes,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+28,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,5,5,Less than 6 months,Other
+29,MSc DS,West Bengal,Female,3,No,7-8 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Other
+30,MSc DS,West Bengal,Male,1,No,4-6 hours,No,Joint Family,No,5,5,Less than 6 months,Meditation
+31,MSc DS,Karnataka,Female,5,No,Less than 4 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+32,MSc DS,Madhya Pradesh,Male,3,No,7-8 hours,No,Nuclear Family,No,4,2,Less than 6 months,Sleeping
+33,MSc DS,Kerala,Male,2,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Sleeping
+34,MSc DS,Tamil Nadu,Male,4,No,4-6 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+35,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sports
+36,MSc DS,Kerala,Female,2,No,4-6 hours,No,Nuclear Family,No,3,3,More than 2 years,Sleeping
+37,MSc DS,Tamil Nadu,Male,4,No,7-8 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Sleeping
+38,MSc DS,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+39,MSc DS,Gujarat,Female,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+40,MSc DS,Gujarat,Male,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+41,MSc DS,Goa,Male,3,No,Less than 4 hours,Yes,Nuclear Family,No,3,4,More than 1 year,Watching movies/series
+42,MSc DS,Kerala,Male,2,No,4-6 hours,No,Joint Family,Yes,4,2,Less than 6 months,Listening music
+43,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Listening music
+44,MSc DS,Kerala,Male,3,No,7-8 hours,No,Nuclear Family,No,3,3,Less than 6 months,Sports
+45,MSc EA,Maharashtra,Female,4,No,Less than 4 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+46,MSc DS,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+47,MSc DS,Kerala,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Watching movies/series
+48,MSc EA,Kerala,Female,2,No,4-6 hours,Yes,Nuclear Family,Yes,2,3,Less than 6 months,Listening music
+49,MSc DS,Goa,Female,3,Yes,Less than 4 hours,No,Nuclear Family,No,3,5,Less than 6 months,Sleeping
+50,MSc EA,West Bengal,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+51,MSc DS,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,More than 1 year,Sleeping
+52,BBA,Karnataka,Male,5,No,7-8 hours,Yes,Joint Family,Yes,5,1,Less than 6 months,Other
+53,MSc DS,Bihar,Male,5,No,4-6 hours,No,Nuclear Family,No,5,5,Less than 6 months,Listening music
+54,MSc DS,Tamil Nadu,Male,4,No,4-6 hours,No,Joint Family,No,2,4,Less than 6 months,Listening music
+55,BA LLB,Kerala,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Other
+56,BA LLB,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+57,BA LLB,Chhattisgarh,Female,2,No,7-8 hours,No,Joint Family,Yes,5,4,Less than 6 months,Sports
+58,BA LLB,Bihar,Female,3,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Listening music
+59,BA LLB,Bihar,Female,2,No,4-6 hours,No,Nuclear Family,Yes,3,3,Less than 6 months,Listening music
+60,MSc DS,West Bengal,Male,5,No,4-6 hours,No,Joint Family,Yes,1,5,Less than 6 months,Other
+61,MSc DS,West Bengal,Female,1,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Watching movies/series
+62,BA LLB,Meghalaya,Female,3,No,4-6 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+63,MSc DS,Maharashtra,Female,1,No,7-8 hours,Yes,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+64,MSc DS,Uttar Pradesh,Female,1,No,Less than 4 hours,Yes,Joint Family,No,5,5,Less than 6 months,Other
+65,MSc DS,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,No,2,1,Less than 6 months,Other
+66,BA LLB,Tamil Nadu,Male,5,No,7-8 hours,No,Nuclear Family,No,1,1,Less than 6 months,Other
+67,MSc DS,Assam,Female,3,No,4-6 hours,No,Nuclear Family,No,3,5,Less than 6 months,Listening music
+68,BA LLB,Bihar,Female,5,No,4-6 hours,No,Nuclear Family,No,3,2,Less than 6 months,Watching movies/series
+69,MBA,Andhra Pradesh,Male,5,No,4-6 hours,No,Nuclear Family,No,4,4,Less than 6 months,Listening music
+70,MBA,Karnataka,Male,3,No,4-6 hours,No,Nuclear Family,No,4,4,Less than 6 months,Listening music
+71,MSc DS,Goa,Male,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Listening music
+72,MSc DS,Uttar Pradesh,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,2,Less than 6 months,Listening music
+73,MSc DS,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Listening music
+74,MSc DS,Kerala,Male,3,No,4-6 hours,Yes,Nuclear Family,Yes,3,3,Less than 6 months,Listening music
+75,BA LLB,Bihar,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+76,BBA,Maharashtra,Female,1,No,More than 8 hours,Yes,Joint Family,No,4,4,More than 1 year,Sports
+77,BA LLB,West Bengal,Female,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,More than 1 year,Sports
+78,MBA,Goa,Female,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Watching movies/series
+79,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,3,3,Less than 6 months,Sleeping
+80,BA LLB,Haryana,Female,4,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Listening music
+81,BA LLB,Chhattisgarh,Female,2,No,7-8 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Sleeping
+82,BSc DS,Telangana,Male,3,No,4-6 hours,No,Joint Family,No,1,5,Less than 6 months,Sleeping
+83,BA LLB,Tamil Nadu,Female,4,No,4-6 hours,No,Joint Family,Yes,3,2,Less than 6 months,Listening music
+84,BBA LLB,Kerala,Female,3,Yes,4-6 hours,No,Joint Family,No,5,5,Less than 6 months,Reading
+85,BA LLB,Uttar Pradesh,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Sleeping
+86,BA LLB,Maharashtra,Female,4,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+87,BBA,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,1,4,More than 1 year,Listening music
+89,BBA,Uttar Pradesh,Female,3,No,4-6 hours,No,Nuclear Family,No,1,4,More than 1 year,Sleeping
+91,BA LLB,Rajasthan,Male,1,No,7-8 hours,Yes,Joint Family,No,1,5,More than 2 years,Sleeping
+92,BSc DS,Maharashtra,Female,3,No,4-6 hours,No,Nuclear Family,No,1,4,More than 1 year,Sports
+93,BSc DS,Uttar Pradesh,Male,4,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Listening music
+95,BBA LLB,Tamil Nadu,Female,3,No,4-6 hours,No,Joint Family,Yes,2,3,More than 1 year,Listening music
+96,BBA LLB,West Bengal,Male,1,No,4-6 hours,No,Joint Family,Yes,5,3,More than 2 years,Watching movies/series
+98,BA LLB,Tamil Nadu,Female,2,Yes,Less than 4 hours,No,Nuclear Family,No,2,5,More than 1 year,Listening music
+99,BA LLB,Tamil Nadu,Female,3,No,7-8 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+100,BSc DS,Telangana,Male,5,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Other
+101,BCom,Tamil Nadu,Male,4,Yes,4-6 hours,Yes,Nuclear Family,Yes,3,3,More than 1 year,Sports
+103,MSc EA,Maharashtra,Female,4,No,Less than 4 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+104,MSc DS,Uttar Pradesh,Female,2,No,Less than 4 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+105,BCom,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Sports
+106,MSc DS,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,5,4,Less than 6 months,Other
+107,BBA LLB,Karnataka,Female,1,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+108,BBA LLB,Karnataka,Female,4,No,Less than 4 hours,No,Nuclear Family,No,1,5,More than 1 year,Other
+109,MBA,Telangana,Male,4,No,7-8 hours,No,Nuclear Family,No,4,3,More than 2 years,Listening music
+110,MBA,Kerala,Male,1,No,Less than 4 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Listening music
+111,MBA,Tamil Nadu,Male,5,No,4-6 hours,No,Joint Family,Yes,4,2,Less than 6 months,Other
+112,MBA,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Sleeping
+113,MBA,Kerala,Female,5,No,4-6 hours,No,Nuclear Family,No,4,2,Less than 6 months,Listening music
+114,MSc EA,Karnataka,Female,4,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Listening music
+115,BBA LLB,Maharashtra,Female,2,No,7-8 hours,Yes,Nuclear Family,No,2,5,More than 2 years,Sleeping
+116,BA LLB,Tamil Nadu,Female,5,No,4-6 hours,No,Joint Family,Yes,1,3,More than 2 years,Listening music
+117,BSc DS,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Listening music
+118,BBA LLB,Tamil Nadu,Female,2,No,More than 8 hours,No,Nuclear Family,Yes,1,4,More than 2 years,Sleeping
+119,BBA LLB,Tamil Nadu,Female,3,No,7-8 hours,No,Joint Family,Yes,5,3,More than 1 year,Sleeping
+120,BBA,Karnataka,Female,3,No,7-8 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Listening music
+121,BBA LLB,Tamil Nadu,Female,2,No,7-8 hours,No,Joint Family,Yes,5,4,More than 2 years,Listening music
+122,BBA LLB,Kerala,Female,2,No,7-8 hours,No,Nuclear Family,Yes,2,5,Less than 6 months,Sleeping
+123,BBA,Rajasthan,Male,3,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+124,BA LLB,West Bengal,Female,2,Yes,7-8 hours,No,Nuclear Family,Yes,4,5,More than 2 years,Listening music
+125,BBA LLB,Kerala,Female,3,Yes,4-6 hours,No,Nuclear Family,No,4,3,Less than 6 months,Listening music
+126,BBA LLB,Kerala,Female,2,No,4-6 hours,No,Nuclear Family,Yes,1,4,More than 1 year,Other
+127,MSc DS,Tamil Nadu,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,Less than 6 months,Listening music
+128,MSc DS,West Bengal,Male,5,No,Less than 4 hours,No,Joint Family,Yes,1,1,Less than 6 months,Sports
+129,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,More than 1 year,Listening music
+130,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Meditation
+131,MSc DS,West Bengal,Female,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Listening music
+132,MBA,Kerala,Female,2,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Listening music
+133,MBA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+134,MBA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Sports
+135,MBA,Karnataka,Female,5,No,7-8 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Other
+136,BBA,Haryana,Male,2,No,4-6 hours,No,Nuclear Family,Yes,1,2,Less than 6 months,Sports
+137,BBA,Bihar,Female,4,No,7-8 hours,No,Joint Family,Yes,5,3,Less than 6 months,Listening music
+138,BBA,Uttar Pradesh,Female,4,No,4-6 hours,No,Nuclear Family,Yes,2,3,Less than 6 months,Sleeping
+139,BBA,West Bengal,Female,4,No,7-8 hours,No,Nuclear Family,Yes,4,3,Less than 6 months,Listening music
+140,BBA LLB,Telangana,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 2 years,Watching movies/series
+141,BBA,Uttar Pradesh,Female,3,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Other
+142,BBA LLB,Jharkhand,Female,1,Yes,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Other
+143,BBA,Telangana,Female,3,No,4-6 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Listening music
+144,BBA,Madhya Pradesh,Male,2,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Other
+145,BBA,Goa,Other,1,Yes,Less than 4 hours,No,Joint Family,Yes,1,5,More than 2 years,Other
+146,BBA LLB,Kerala,Male,1,No,4-6 hours,No,Nuclear Family,No,1,5,More than 1 year,Listening music
+147,MA English,Tamil Nadu,Female,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+149,MSc DS,West Bengal,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Meditation
+150,MSc DS,Kerala,Male,3,Yes,4-6 hours,Yes,Nuclear Family,Yes,3,3,More than 1 year,Sports
+151,MSc DS,Bihar,Male,3,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sports
+152,MSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Listening music
+153,MSc DS,Bihar,Male,5,No,4-6 hours,Yes,Nuclear Family,No,5,4,Less than 6 months,Sleeping
+154,MSc DS,Kerala,Male,3,No,4-6 hours,No,Nuclear Family,No,3,4,Less than 6 months,Sports
+155,MSc DS,Kerala,Male,3,Yes,4-6 hours,No,Nuclear Family,Yes,3,3,More than 1 year,Watching movies/series
+156,MSc DS,Telangana,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+157,MSc DS,Goa,Male,2,No,4-6 hours,No,Nuclear Family,Yes,5,5,Less than 6 months,Listening music
+158,MSc EA,Odisha,Female,2,No,4-6 hours,Yes,Joint Family,No,5,5,Less than 6 months,Meditation
+159,MSc DS,Maharashtra,Male,4,No,Less than 4 hours,No,Nuclear Family,No,5,3,More than 1 year,Sleeping
+160,MBA,Karnataka,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+161,MBA,Tamil Nadu,Male,2,No,4-6 hours,No,Nuclear Family,No,2,5,More than 1 year,Sleeping
+162,MBA,Kerala,Male,5,No,7-8 hours,No,Nuclear Family,Yes,1,1,Less than 6 months,Listening music
+163,MBA,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+164,MBA,Bihar,Female,4,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+165,MSc DS,West Bengal,Female,4,No,7-8 hours,Yes,Nuclear Family,Yes,3,2,More than 1 year,Sports
+167,MSc DS,Maharashtra,Female,3,No,4-6 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Listening music
+168,BBA LLB,Karnataka,Female,4,No,Less than 4 hours,Yes,Joint Family,No,4,3,More than 1 year,Sports
+170,MBA,Karnataka,Female,5,No,4-6 hours,No,Nuclear Family,No,5,4,Less than 6 months,Listening music
+171,MBA,Tamil Nadu,Male,4,No,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+172,MSc DS,Kerala,Female,4,No,Less than 4 hours,No,Nuclear Family,No,3,5,Less than 6 months,Sports
+173,BBA LLB,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,Yes,5,3,Less than 6 months,Listening music
+174,MBA,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,Yes,4,4,Less than 6 months,Listening music
+175,BBA,Haryana,Female,4,No,Less than 4 hours,No,Joint Family,Yes,4,2,Less than 6 months,Listening music
+176,MBA,Uttar Pradesh,Female,4,No,Less than 4 hours,Yes,Joint Family,Yes,4,4,More than 1 year,Sports
+177,BBA,Rajasthan,Female,2,No,Less than 4 hours,No,Joint Family,No,4,4,Less than 6 months,Watching movies/series
+178,MA English,Andhra Pradesh,Male,2,No,Less than 4 hours,No,Joint Family,No,4,4,More than 1 year,Listening music
+179,BSc DS,Haryana,Male,4,No,Less than 4 hours,Yes,Joint Family,No,2,4,More than 1 year,Sleeping
+180,BBA LLB,Telangana,Female,2,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 2 years,Sleeping
+181,BA LLB,Tamil Nadu,Female,2,No,Less than 4 hours,No,Nuclear Family,No,2,4,Less than 6 months,Sports
+182,BBA,Goa,Male,5,No,Less than 4 hours,No,Joint Family,Yes,3,2,More than 2 years,Listening music
+183,BBA LLB,Karnataka,Male,4,No,Less than 4 hours,No,Joint Family,Yes,4,2,More than 1 year,Sleeping
+184,BBA LLB,Karnataka,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+185,MBA,Gujarat,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,5,Less than 6 months,Sports
+186,BBA LLB,Telangana,Female,3,No,Less than 4 hours,Yes,Nuclear Family,Yes,5,5,Less than 6 months,Reading
+187,BCom,West Bengal,Male,4,No,7-8 hours,No,Nuclear Family,No,4,4,More than 1 year,Meditation
+188,BCom,Rajasthan,Female,2,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+189,BCom,Chhattisgarh,Male,4,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+190,MBA,Assam,Male,4,No,7-8 hours,No,Joint Family,Yes,4,2,Less than 6 months,Sleeping
+191,BBA LLB,Telangana,Male,4,Yes,4-6 hours,No,Joint Family,No,3,4,More than 1 year,Sleeping
+192,BBA,Andhra Pradesh,Female,4,No,4-6 hours,Yes,Joint Family,No,4,3,More than 1 year,Sports
+193,MSc DS,Telangana,Male,2,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+194,MBA,Karnataka,Female,4,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sports
+195,Msc GFA,Bihar,Male,2,Yes,4-6 hours,No,Nuclear Family,No,2,2,Less than 6 months,Listening music
+196,MSc EA,Kerala,Female,3,No,7-8 hours,No,Nuclear Family,No,5,3,More than 1 year,Sleeping
+197,BA LLB,Karnataka,Female,4,No,4-6 hours,No,Nuclear Family,Yes,4,5,More than 2 years,Reading
+198,BBA,Gujarat,Male,3,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+199,MBA,Haryana,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Meditation
+200,BA LLB,Goa,Male,2,No,7-8 hours,No,Nuclear Family,Yes,4,4,Less than 6 months,Listening music
+201,BBA,Assam,Female,4,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,1,1,Less than 6 months,Watching movies/series
+202,MBA,Uttarakhand,Female,2,No,4-6 hours,No,Nuclear Family,No,5,5,More than 1 year,Watching movies/series
+203,BA,Goa,Female,3,No,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+204,BBA LLB,Tripura,Female,4,No,Less than 4 hours,No,Nuclear Family,No,4,5,More than 1 year,Sports
+205,MBA,Assam,Male,3,No,4-6 hours,No,Joint Family,Yes,3,3,Less than 6 months,Sleeping
+206,BA LLB,Madhya Pradesh,Male,5,No,4-6 hours,No,Joint Family,No,3,2,Less than 6 months,Sports
+207,BCom,Andhra Pradesh,Female,2,No,Less than 4 hours,No,Nuclear Family,Yes,2,5,More than 1 year,Meditation
+208,MSc DS,Madhya Pradesh,Male,3,No,4-6 hours,No,Nuclear Family,No,3,3,More than 1 year,Sleeping
+209,BBA,Kerala,Male,3,No,Less than 4 hours,No,Nuclear Family,No,2,4,More than 1 year,Reading
+210,MBA,Kerala,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,2,More than 1 year,Sleeping
+211,MBA,Karnataka,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+212,BSc DS,Karnataka,Female,2,No,4-6 hours,No,Nuclear Family,No,5,3,Less than 6 months,Reading
+213,BSc DS,Haryana,Male,3,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+214,MBA,Bihar,Male,2,No,Less than 4 hours,No,Joint Family,Yes,4,2,More than 1 year,Reading
+215,BSc DS,Odisha,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Sleeping
+216,MSc DS,Kerala,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Reading
+217,BSc DS,Andhra Pradesh,Female,5,Yes,More than 8 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Sports
+218,MBA,Kerala,Female,4,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+219,BBA LLB,Tripura,Female,2,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Listening music
+220,BA LLB,Tamil Nadu,Female,2,No,7-8 hours,No,Nuclear Family,No,2,3,More than 2 years,Listening music
+221,BCom,Haryana,Female,2,Yes,Less than 4 hours,No,Joint Family,Yes,4,5,More than 1 year,Listening music
+222,MBA,Kerala,Male,2,No,Less than 4 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+223,BA LLB,West Bengal,Male,2,No,Less than 4 hours,No,Joint Family,Yes,4,4,More than 1 year,Listening music
+224,MBA,Andhra Pradesh,Male,2,No,4-6 hours,Yes,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+225,BBA,Madhya Pradesh,Male,3,No,4-6 hours,No,Nuclear Family,Yes,3,5,More than 1 year,Watching movies/series
+226,BA LLB,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+227,BA LLB,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Watching movies/series
+228,BBA,Haryana,Female,3,No,7-8 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Listening music
+229,BA LLB,Tamil Nadu,Male,4,No,4-6 hours,No,Nuclear Family,Yes,3,4,More than 1 year,Listening music
+230,BBA LLB,Karnataka,Male,4,No,Less than 4 hours,No,Nuclear Family,No,4,4,More than 2 years,Other
+231,BBA LLB,Kerala,Female,4,No,4-6 hours,No,Joint Family,No,4,4,More than 1 year,Other
+232,BA LLB,Tamil Nadu,Female,4,No,Less than 4 hours,No,Nuclear Family,No,1,4,More than 1 year,Reading
+233,BSc DS,Maharashtra,Male,2,No,4-6 hours,No,Nuclear Family,Yes,3,5,More than 1 year,Other
+234,BCom,West Bengal,Male,4,No,Less than 4 hours,Yes,Nuclear Family,Yes,3,4,More than 1 year,Sleeping
+235,MSc DS,Uttar Pradesh,Male,3,No,Less than 4 hours,No,Nuclear Family,No,3,4,More than 1 year,Reading
+236,BSc DS,West Bengal,Male,2,No,4-6 hours,No,Nuclear Family,No,4,3,More than 1 year,Watching movies/series
+237,MSc EA,Telangana,Male,2,Yes,4-6 hours,No,Joint Family,No,2,5,More than 1 year,Reading
+238,MSc DS,Haryana,Female,2,Yes,7-8 hours,Yes,Nuclear Family,Yes,3,5,More than 1 year,Meditation
+239,BA LLB,Maharashtra,Male,5,No,More than 8 hours,No,Joint Family,Yes,5,1,More than 2 years,Listening music
+240,BSc EA,Himachal Pradesh,Male,5,No,4-6 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Reading
+241,MBA,Chhattisgarh,Male,1,No,4-6 hours,Yes,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+242,MSc EA,Punjab,Female,2,Yes,4-6 hours,No,Nuclear Family,Yes,4,5,More than 1 year,Listening music
+243,BBA LLB,Jammu & Kashmir,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Reading
+244,BCom,Manipur,Female,4,No,Less than 4 hours,No,Nuclear Family,No,4,2,More than 2 years,Watching movies/series
+245,LLM,Jammu & Kashmir,Female,2,No,Less than 4 hours,No,Joint Family,Yes,1,2,Less than 6 months,Sleeping
+246,Msc GFA,Kerala,Female,3,No,7-8 hours,Yes,Joint Family,No,5,2,More than 2 years,Sleeping
+247,BBA LLB,Karnataka,Male,2,No,Less than 4 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Listening music
+248,BBA LLB,Odisha,Male,2,Yes,4-6 hours,Yes,Nuclear Family,No,2,1,More than 2 years,Sports
+249,BCom,Sikkim,Male,4,No,7-8 hours,No,Joint Family,Yes,4,3,More than 1 year,Meditation
+250,BBA LLB,Telangana,Male,4,No,4-6 hours,No,Nuclear Family,Yes,2,4,More than 1 year,Listening music
+251,BSc DS,Jharkhand,Female,2,Yes,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Watching movies/series
+252,MA English,Bihar,Male,1,No,7-8 hours,No,Nuclear Family,Yes,1,2,More than 1 year,Reading
+253,BBA,Goa,Male,5,No,4-6 hours,Yes,Nuclear Family,Yes,2,2,Less than 6 months,Sports
+254,BCom,Andhra Pradesh,Female,2,Yes,7-8 hours,No,Nuclear Family,Yes,1,5,Less than 6 months,Reading
+255,BA,Assam,Male,2,No,4-6 hours,Yes,Joint Family,Yes,2,1,More than 1 year,Sports
+256,Msc GFA,Gujarat,Male,5,No,7-8 hours,No,Nuclear Family,No,5,2,More than 1 year,Listening music
+257,BA LLB,Karnataka,Female,3,No,More than 8 hours,No,Nuclear Family,Yes,5,1,More than 1 year,Watching movies/series
+258,Msc GFA,Andhra Pradesh,Female,3,No,4-6 hours,No,Joint Family,No,4,4,Less than 6 months,Sports
+259,BSc EA,Kerala,Female,4,No,7-8 hours,No,Nuclear Family,Yes,5,3,Less than 6 months,Meditation
+260,BBA,Haryana,Male,1,No,7-8 hours,No,Joint Family,No,3,3,Less than 6 months,Sleeping
+261,MSc EA,Goa,Female,4,No,4-6 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+262,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,4,5,More than 1 year,Listening music
+263,MBA,West Bengal,Female,2,Yes,4-6 hours,No,Nuclear Family,No,3,4,More than 1 year,Sleeping
+264,BA LLB,Haryana,Female,2,No,Less than 4 hours,No,Nuclear Family,No,3,4,More than 2 years,Sleeping
+265,MBA,Bihar,Male,5,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Listening music
+266,Msc GFA,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Watching movies/series
+267,BBA LLB,Haryana,Male,2,No,7-8 hours,No,Nuclear Family,Yes,4,3,More than 1 year,Meditation
+268,BA LLB,Tamil Nadu,Female,2,Yes,More than 8 hours,No,Nuclear Family,Yes,2,3,More than 1 year,Sleeping
+269,BA LLB,Bihar,Male,3,No,7-8 hours,Yes,Nuclear Family,No,3,3,More than 1 year,Watching movies/series
+270,BSc DS,Bihar,Female,4,No,4-6 hours,Yes,Joint Family,No,2,4,More than 1 year,Meditation
+271,BA LLB,Uttar Pradesh,Female,3,Yes,4-6 hours,Yes,Nuclear Family,Yes,2,2,More than 1 year,Sleeping
+272,MSc DS,Telangana,Female,4,Yes,4-6 hours,Yes,Nuclear Family,Yes,2,3,More than 1 year,Sleeping
+273,BA LLB,Tripura,Female,3,No,7-8 hours,No,Joint Family,No,3,5,More than 1 year,Listening music
+274,MSc DS,Haryana,Female,5,No,4-6 hours,No,Nuclear Family,Yes,4,4,More than 1 year,Sleeping
+275,BBA LLB,Kerala,Female,1,Yes,More than 8 hours,No,Nuclear Family,No,4,1,Less than 6 months,Sleeping
+276,MBA,Chhattisgarh,Male,2,No,7-8 hours,No,Nuclear Family,No,3,3,More than 1 year,Reading
+277,BBA LLB,Gujarat,Male,2,No,7-8 hours,Yes,Joint Family,No,2,3,More than 1 year,Listening music
+278,BBA LLB,Gujarat,Other,1,Yes,Less than 4 hours,No,Joint Family,Yes,2,5,Less than 6 months,Watching movies/series
+279,MA English,Nagaland,Female,2,No,4-6 hours,No,Nuclear Family,Yes,3,3,More than 1 year,Sports
+280,MBA,Assam,Male,5,No,More than 8 hours,No,Nuclear Family,Yes,5,2,More than 2 years,Watching movies/series
+281,MSc EA,Chhattisgarh,Male,3,No,4-6 hours,No,Nuclear Family,No,5,1,More than 1 year,Sleeping
+282,BA LLB,Telangana,Female,4,Yes,7-8 hours,Yes,Joint Family,Yes,2,4,Less than 6 months,Watching movies/series
+283,BBA LLB,Madhya Pradesh,Female,2,No,4-6 hours,No,Joint Family,Yes,1,2,More than 1 year,Meditation
+284,BSc EA,Jharkhand,Female,2,No,7-8 hours,No,Joint Family,Yes,3,3,Less than 6 months,Watching movies/series
+285,BSc DS,Jammu & Kashmir,Female,2,No,4-6 hours,No,Nuclear Family,No,3,3,More than 1 year,Watching movies/series
+286,BA LLB,Himachal Pradesh,Female,3,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,3,2,Less than 6 months,Listening music
+287,MBA,Gujarat,Female,2,No,More than 8 hours,No,Joint Family,No,1,1,More than 1 year,Watching movies/series
+288,MBA,Chhattisgarh,Other,3,No,More than 8 hours,No,Nuclear Family,No,4,3,Less than 6 months,Sports
+289,MBA,Maharashtra,Female,1,Yes,4-6 hours,Yes,Nuclear Family,No,4,5,Less than 6 months,Watching movies/series
+290,Msc GFA,Karnataka,Male,4,No,7-8 hours,No,Joint Family,Yes,3,3,More than 1 year,Watching movies/series
+291,BBA,Assam,Female,2,No,More than 8 hours,No,Nuclear Family,Yes,2,2,More than 1 year,Sports
+292,BBA,Haryana,Female,2,Yes,4-6 hours,Yes,Joint Family,No,2,3,More than 2 years,Sports
+293,BSc DS,Kerala,Male,5,No,4-6 hours,No,Nuclear Family,No,1,1,Less than 6 months,Other
+294,BBA,Jharkhand,Male,2,No,4-6 hours,No,Joint Family,Yes,1,3,More than 1 year,Reading
+296,BBA,Rajasthan,Female,4,No,7-8 hours,No,Joint Family,Yes,3,2,More than 1 year,Reading
+297,MSc DS,Kerala,Female,3,No,4-6 hours,No,Nuclear Family,No,3,5,More than 1 year,Listening music
+298,MBA,Tamil Nadu,Female,2,No,4-6 hours,No,Nuclear Family,No,2,4,More than 1 year,Sleeping
+299,BBA LLB,Kerala,Female,2,No,4-6 hours,No,Joint Family,Yes,4,4,More than 1 year,Listening music
+300,MSc DS,Karnataka,Male,4,No,4-6 hours,No,Nuclear Family,Yes,5,5,More than 1 year,Watching movies/series
+301,BSc DS,Punjab,Female,3,No,4-6 hours,No,Joint Family,Yes,1,3,Less than 6 months,Sleeping
+302,BBA,Maharashtra,Male,3,No,4-6 hours,No,Nuclear Family,Yes,2,2,Less than 6 months,Sleeping
+303,MBA,Goa,Male,2,Yes,Less than 4 hours,Yes,Nuclear Family,Yes,2,2,Less than 6 months,Watching movies/series
+304,MA English,Tamil Nadu,Male,4,Yes,4-6 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Watching movies/series
+305,BCom,Kerala,Female,1,No,7-8 hours,No,Joint Family,No,1,1,More than 1 year,Sports
+306,MSc DS,Maharashtra,Other,5,No,More than 8 hours,No,Joint Family,No,5,1,More than 1 year,Watching movies/series
+307,MBA,Tamil Nadu,Male,4,No,Less than 4 hours,No,Joint Family,Yes,3,4,Less than 6 months,Listening music
+308,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,2,4,Less than 6 months,Sleeping
+309,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+310,MBA,Kerala,Male,4,No,Less than 4 hours,No,Nuclear Family,Yes,3,4,Less than 6 months,Sleeping
+311,MBA,Kerala,Female,4,No,Less than 4 hours,No,Joint Family,No,3,4,Less than 6 months,Listening music
+312,MBA,Kerala,Female,4,No,Less than 4 hours,Yes,Joint Family,No,2,5,Less than 6 months,Sleeping
+313,MBA,Tamil Nadu,Female,4,No,Less than 4 hours,No,Joint Family,No,3,4,Less than 6 months,Listening music
+314,MBA,West Bengal,Male,4,No,4-6 hours,No,Joint Family,Yes,4,4,Less than 6 months,Sports
